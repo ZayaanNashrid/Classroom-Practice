@@ -2,7 +2,7 @@
 
 int main(){
 	
-	printf("SUS");
+	printf("IMPOSTOR IS SUS :0");
 	
 	
 }
